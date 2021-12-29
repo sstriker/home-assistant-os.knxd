@@ -1,1 +1,1 @@
-# knxd
+# knxd for Home Assistant OS
